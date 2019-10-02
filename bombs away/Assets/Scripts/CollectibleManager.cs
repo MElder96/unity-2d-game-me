@@ -29,12 +29,11 @@ public class CollectibleManager : MonoBehaviour
     public void HandleBombCollected()
     {
         _collectedBombs++;
-        //_collectedBombs = _collectedBombs + 1;
-        //another way of adding 
         DisplayBombCount();
-        if (_collectedBombs == _totalBombs)
+       
+        if(_collectedBombs == _totalBombs)
         {
-           // bombCount.setText("you win!");
+            YouWinMenu.Instance.Show(); 
         }
     }
 }
