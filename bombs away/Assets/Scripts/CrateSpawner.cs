@@ -8,16 +8,5 @@ public class CrateSpawner : MonoBehaviour
 
     public int amountOfCratesToSpawn;
 
-    private void Start()
-    {
-        //declare it an int setting it at 0, as long as i is less than keep wokring, add number by 1
-        for (int i = 0; i < amountOfCratesToSpawn; i ++)
-        {
-<<<<<<< Updated upstream
-            //object to copy, position of create spawner location, rotation current, parent = crateSpawner
-=======
->>>>>>> Stashed changes
-            Instantiate(cratePrefab, transform.localPosition, Quaternion.identity, this.transform);
-        }
-    }
+
 }

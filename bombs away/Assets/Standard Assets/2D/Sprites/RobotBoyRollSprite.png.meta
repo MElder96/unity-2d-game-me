@@ -26,7 +26,12 @@ TextureImporter:
     21300042: RobotBoyRoll21
     21300044: RobotBoyRoll22
     21300046: RobotBoyRoll23
+<<<<<<< Updated upstream
   serializedVersion: 2
+=======
+  externalObjects: {}
+  serializedVersion: 9
+>>>>>>> Stashed changes
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -68,23 +73,79 @@ TextureImporter:
   spritePixelsToUnits: 200
   alphaIsTransparency: 1
   textureType: 8
+<<<<<<< Updated upstream
   buildTargetSettings:
   - buildTarget: iPhone
+=======
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -2
     compressionQuality: 100
+<<<<<<< Updated upstream
   - buildTarget: Android
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: BlackBerry
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: BlackBerry
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: WP8
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WP8
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+>>>>>>> Stashed changes
   spriteSheet:
     sprites:
     - name: RobotBoyRoll00
@@ -97,7 +158,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll01
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll01
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -107,7 +182,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll02
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll02
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -117,7 +206,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll03
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll03
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -127,7 +230,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll04
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll04
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -137,7 +254,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll05
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll05
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -147,7 +278,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll06
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll06
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -157,7 +302,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll07
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll07
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -167,7 +326,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll08
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll08
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -177,7 +350,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll09
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll09
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -187,7 +374,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll10
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll10
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -197,7 +398,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll11
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll11
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -207,7 +422,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll12
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll12
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -217,7 +446,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll13
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll13
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1644
@@ -227,7 +470,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll14
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll14
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -237,7 +494,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll15
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll15
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -247,7 +518,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll16
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll16
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -257,7 +542,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll17
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll17
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -267,7 +566,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll18
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll18
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -277,7 +590,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll19
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll19
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -287,7 +614,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll20
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll20
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -297,7 +638,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll21
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll21
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -307,7 +662,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll22
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll22
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -317,7 +686,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyRoll23
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyRoll23
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -327,6 +710,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+>>>>>>> Stashed changes
   spritePackingTag: 
   userData: 
   assetBundleName: 

@@ -28,7 +28,12 @@ TextureImporter:
     21300046: RobotBoyJump23
     21300048: RobotBoyJump24
     21300050: RobotBoyJump25
+<<<<<<< Updated upstream
   serializedVersion: 2
+=======
+  externalObjects: {}
+  serializedVersion: 9
+>>>>>>> Stashed changes
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -70,23 +75,79 @@ TextureImporter:
   spritePixelsToUnits: 200
   alphaIsTransparency: 1
   textureType: 8
+<<<<<<< Updated upstream
   buildTargetSettings:
   - buildTarget: iPhone
+=======
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -2
     compressionQuality: 100
+<<<<<<< Updated upstream
   - buildTarget: Android
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: BlackBerry
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: BlackBerry
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: WP8
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WP8
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+>>>>>>> Stashed changes
   spriteSheet:
     sprites:
     - name: RobotBoyJump00
@@ -99,7 +160,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump01
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump01
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -109,7 +184,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump02
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump02
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -119,7 +208,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump03
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump03
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -129,7 +232,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump04
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump04
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -139,7 +256,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump05
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump05
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -149,7 +280,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump06
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump06
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -159,7 +304,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump07
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump07
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -169,7 +328,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump08
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump08
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -179,7 +352,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump09
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump09
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -189,7 +376,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump10
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump10
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -199,7 +400,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump11
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump11
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -209,7 +424,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump12
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump12
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -219,7 +448,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump13
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump13
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -229,7 +472,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump14
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump14
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -239,7 +496,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump15
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump15
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -249,7 +520,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump16
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump16
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -259,7 +544,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump17
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump17
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -269,7 +568,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump18
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump18
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -279,7 +592,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump19
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump19
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -289,7 +616,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump20
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump20
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -299,7 +640,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump21
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump21
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -309,7 +664,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump22
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump22
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -319,7 +688,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump23
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump23
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -329,7 +712,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump24
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump24
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -339,7 +736,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyJump25
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyJump25
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -349,6 +760,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+>>>>>>> Stashed changes
   spritePackingTag: 
   userData: 
   assetBundleName: 

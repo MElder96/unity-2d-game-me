@@ -23,7 +23,12 @@ TextureImporter:
     21300036: RobotBoyCrouch18
     21300038: RobotBoyCrouch19
     21300040: RobotBoyCrouch20
+<<<<<<< Updated upstream
   serializedVersion: 2
+=======
+  externalObjects: {}
+  serializedVersion: 9
+>>>>>>> Stashed changes
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -65,23 +70,79 @@ TextureImporter:
   spritePixelsToUnits: 200
   alphaIsTransparency: 1
   textureType: 8
+<<<<<<< Updated upstream
   buildTargetSettings:
   - buildTarget: iPhone
+=======
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -2
     compressionQuality: 100
+<<<<<<< Updated upstream
   - buildTarget: Android
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: BlackBerry
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: BlackBerry
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
   - buildTarget: WP8
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WP8
+>>>>>>> Stashed changes
     maxTextureSize: 1024
     textureFormat: -1
     compressionQuality: 50
+<<<<<<< Updated upstream
+=======
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+>>>>>>> Stashed changes
   spriteSheet:
     sprites:
     - name: RobotBoyCrouch00
@@ -94,7 +155,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch01
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch01
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -104,7 +179,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch02
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch02
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -114,7 +203,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch03
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch03
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -124,7 +227,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch04
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch04
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -134,7 +251,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch05
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch05
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -144,7 +275,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch06
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch06
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -154,7 +299,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch07
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch07
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -164,7 +323,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch08
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch08
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -174,7 +347,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch09
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch09
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -184,7 +371,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch10
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch10
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -194,7 +395,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch11
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch11
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -204,7 +419,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch12
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch12
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -214,7 +443,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch13
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch13
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -224,7 +467,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch14
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch14
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 0
@@ -234,7 +491,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch15
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch15
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 275
@@ -244,7 +515,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch16
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch16
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 550
@@ -254,7 +539,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch17
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch17
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 825
@@ -264,7 +563,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch18
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch18
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1100
@@ -274,7 +587,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch19
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch19
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1375
@@ -284,7 +611,21 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
     - name: RobotBoyCrouch20
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RobotBoyCrouch20
+>>>>>>> Stashed changes
       rect:
         serializedVersion: 2
         x: 1650
@@ -294,6 +635,26 @@ TextureImporter:
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream
+=======
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+>>>>>>> Stashed changes
   spritePackingTag: 
   userData: 
   assetBundleName: 
