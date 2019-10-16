@@ -32,9 +32,21 @@ public class CollectibleManager : MonoBehaviour
         //_collectedBombs = _collectedBombs + 1;
         //another way of adding 
         DisplayBombCount();
+<<<<<<< Updated upstream
         if (_collectedBombs == _totalBombs)
         {
            // bombCount.setText("you win!");
+=======
+       
+        if (_collectedBombs == _totalBombs)
+        {
+            SoundManager.Instance.PlayWinSound();
+        }
+
+        if(_collectedBombs == _totalBombs)
+        {
+            YouWinMenu.Instance.Show();
+>>>>>>> Stashed changes
         }
     }
 }
