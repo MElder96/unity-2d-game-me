@@ -14,8 +14,9 @@ public class Collectible : MonoBehaviour
             HandleCollected();
         }
     }
-    void HandleCollected()
+    public virtual void HandleCollected()
     {
+        //virtual = 
         _hasBeenCollected = true;
         CollectibleManager.Instance.HandleBombCollected();
         Destroy(gameObject);
