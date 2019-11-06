@@ -14,6 +14,7 @@ public class SpeedPotion : Collectible
 
     public override void HandleCollected()
     {
+        base.HandleCollected(); 
         _character.DoubleSpeedBruh();
     }
 }
